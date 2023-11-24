@@ -1,3 +1,5 @@
+[
+
 {"Mitarbeitenden-ID": 1, "Name": "PIL-23106-01 Topside Fab RFQ-1.doc","Typ": "Microsoft Word 97-2003-Dokument",  "Manager*in-ID": 653},
 {"Mitarbeitenden-ID": 2, "Name": "Section 1 - Form of Subcontract Agreement.docx","Typ": "Microsoft Word-Dokument",  "Manager*in-ID": 572},
 {"Mitarbeitenden-ID": 3, "Name": "Section 10 - Subcontract Forms -Rev 501 oCT 2018.docx","Typ": "Microsoft Word-Dokument",  "Manager*in-ID": 573},
@@ -651,3 +653,5 @@
 {"Mitarbeitenden-ID": 651, "Name": "Petrofac Plan & Manuals","Typ": "Dateiordner",  "Manager*in-ID": 636},
 {"Mitarbeitenden-ID": 652, "Name": "Petrofac Standards (Group Documentation)","Typ": "Dateiordner",  "Manager*in-ID": 636},
 {"Mitarbeitenden-ID": 653, "Name": "Ordner","Typ": "Dateiordner",  "Manager*in-ID":null}
+
+]
